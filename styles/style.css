@@ -48,11 +48,58 @@ color: #F00;
  font-size:40px ;
 font-weight:700 ;
 color: #070211;
-margin-top: 0;
 }
 .container-1 img{
  width: 802.9px;
 height: 500px;
+}
+
+/* third step */
+
+.container-2{
+ display: flex;
+ justify-content: space-between;
+ height:600px ;
+ width:1320px ;
+ margin: 120px auto;
+ border-radius: 16px;
+ background-image: linear-gradient(to left,rgba(0.50,0,0,0),rgba(0.50,0,0,3)),url(../images/Vectorrr.png);
+}
+
+
+.container-2>.text-1>h1{
+
+ font-size: 64px ;
+ font-weight:900 ;
+ color: #FFF;
+ font-family: 'Merriweather', serif;
+
+}
+
+.container-2 > .text-1 > p{
+ 
+ font-size: 18px;
+ font-weight: 400;
+ color:  rgba(255, 255, 255, 0.80);
+ font-family: 'Inter', sans-serif;
+}
+.container-2 > .text-1 > h6{
+ font-family: 'Inter', sans-serif;
+ font-size: 20px;
+ font-weight: 700;
+ color:#FFF;
+ text-transform: uppercase;
+
+}
+.text-1{
+ padding: 126px 0 0 126px;
+ align-items: center;
+}
+
+.container-2 >.img-1{
+
+ padding: 68.11px 138px 0 0;
+
 }
 
 
