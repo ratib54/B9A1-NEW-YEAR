@@ -1,5 +1,6 @@
-.container{
+/* first banner */
 
+.container{
  font-family: 'Merriweather', serif;
  width: 1300px;
  height: 600px;
@@ -24,6 +25,34 @@
  color: #fff;
  margin-top: 16px;
 
+}
+/* second step */
+
+.container-1{
+ text-align: center;
+}
+.container-1 >h1{
+ font-size: 88px;
+ font-weight: 700;
+ color: #F00;
+}
+
+.container-1 >h5{
+font-size: 24px  ;
+font-weight: 500;
+color: #F00;
+}
+
+.container-1 >h4{
+ font-family: 'Inter', sans-serif;
+ font-size:40px ;
+font-weight:700 ;
+color: #070211;
+margin-top: 0;
+}
+.container-1 img{
+ width: 802.9px;
+height: 500px;
 }
 
 
