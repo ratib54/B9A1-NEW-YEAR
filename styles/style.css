@@ -171,7 +171,7 @@ cursor: pointer;
 
 .img-3{
 
- height: 450px;px ;
+ height: 450px ;
  width: 424px ;
  display: flex;
  gap: 24px;
@@ -227,7 +227,7 @@ cursor: pointer;
  background-color: rgb(0, 255, 225) ;
  width: 1320px;
  height: 616px;
- margin: 570px auto;
+ margin: 570px auto 120px;
  border-radius: 16px;
  background-color:rgba(255, 0, 0, 0.05);
  text-align: center;
@@ -258,10 +258,10 @@ cursor: pointer;
 
 .btn-1{
 
- border-radius: 0px 50px 50px 0px;
+border-radius: 0px 50px 50px 0px;
 background: #F00;
 width: 210px;
-height: 72px;
+height: 78px;
 flex-shrink: 0;
 color: #FFF;
 border: none;
@@ -278,6 +278,58 @@ margin-top: 48px;
 padding-left: 50px;
 color: rgba(7, 2, 17, 0.30) ;
 font-size: 18px;
+}
+
+/* last task */
+
+footer{
+
+ background-color: #070211;
+ color: #FFF;
+ height: 609px;
+
+ display: flex;
+ justify-content: space-between;
+ 
+}
+.last {
+
+ padding: 120px 0px 0px 140px;
+
+}
+
+.last > h5 {
+
+ margin-top: 260px;
+ font-size: 24px;
+ font-weight: 500;
+ font-family: 'Inter', sans-serif;
+}
+.last >h4{
+ font-size: 24px;
+ font-weight: 500;
+ font-family: 'Inter', sans-serif;
+
+}
+
+.last-2{
+
+ padding: 120px 241px 0px 0px;
+ font-size: 24px;
+ font-weight: 500;
+ font-family: 'Inter', sans-serif;
+}
+
+.last-2 > h5{
+
+ margin-top: 260px;
+ margin-left: 201px;
+}
+
+.last-1{
+
+ margin-top: 298px;
+ cursor: pointer;
 }
 
 
