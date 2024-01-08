@@ -102,6 +102,51 @@ height: 500px;
 
 }
 
+/* fourth step */
+
+.container-3{
+
+ width: 1320px;
+ height: 482px;
+ background-image: linear-gradient(to bottom right, rgba(255, 0, 0, 0.10) , rgba(255, 0, 0, 0.00));
+ margin: 0 auto;
+ border-radius: 16px;
+ text-align: center;
+ font-family: 'Inter', sans-serif;
+}
+
+.text-2 > h4> span{
+
+ color: #F00;
+ font-size: 32px;
+ font-weight: 600;
+ 
+}
+.text-2 > h4{
+
+ color: #070211;
+ font-size: 32px;
+ font-weight:600 ;
+
+}
+
+.text-2{
+
+ padding-top: 100px;
+}
+
+.btn{
+ font-size: 20px;
+ font-weight: 700;
+ color:#FFF ;
+ height:56px ;
+ width: 167px;
+ background-color: #F00;
+ border-radius: 18px;
+ border: none ;
+ cursor: pointer;
+ font-family: 'Inter', sans-serif;
+}
 
 
 
