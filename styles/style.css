@@ -107,7 +107,7 @@ height: 500px;
 .container-3{
 
  width: 1320px;
- height: 482px;
+ height: 700px;
  background-image: linear-gradient(to bottom right, rgba(255, 0, 0, 0.10) , rgba(255, 0, 0, 0.00));
  margin: 0 auto;
  border-radius: 16px;
@@ -160,8 +160,8 @@ height: 500px;
 
 .img-2 {
 
-height:424px ;
-width: 450px ;
+height:450px ;
+width: 424px ;
 display: flex;
 gap: 20px;
 border-radius: 16px;
@@ -171,8 +171,8 @@ cursor: pointer;
 
 .img-3{
 
- height:424px ;
- width: 450px ;
+ height: 450px;px ;
+ width: 424px ;
  display: flex;
  gap: 24px;
  margin-top: 24px;
@@ -197,7 +197,7 @@ cursor: pointer;
  font-family: 'Merriweather', serif;
 }
 
-.text-3> p{
+.text-3> p {
  font-size: 20px;
  font-weight: 400 ;
  color: rgba(7, 2, 17, 0.60);
@@ -218,6 +218,66 @@ cursor: pointer;
  border:8px solid rgba(169, 10, 116, 0.333);
  border-radius: 22px;
  box-shadow: #070211;
+}
+
+/* sixth part */
+
+.container-5{
+
+ background-color: rgb(0, 255, 225) ;
+ width: 1320px;
+ height: 616px;
+ margin: 570px auto;
+ border-radius: 16px;
+ background-color:rgba(255, 0, 0, 0.05);
+ text-align: center;
+ padding-top :80px;
+ 
+}
+
+.container-5 > h1{
+
+ color:#070211 ;
+ font-size: 48px;
+ font-weight:900 ;
+ font-family: 'Merriweather', serif;
+
+}
+.container-5 > p{
+ 
+ font-family: 'Inter', sans-serif;
+ font-size: 20px;
+ font-weight: 400;
+ color: rgba(7, 2, 17, 0.60);
+}
+.container-5 > img{
+
+ height:150px ;
+ width:150px ;
+}
+
+.btn-1{
+
+ border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+color: #FFF;
+border: none;
+}
+
+.space{
+
+border-radius: 80px 0px 0px 80px;
+background: #FFF;
+width: 400px;
+height: 72px;
+border: none;
+margin-top: 48px;
+padding-left: 50px;
+color: rgba(7, 2, 17, 0.30) ;
+font-size: 18px;
 }
 
 
