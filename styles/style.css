@@ -333,6 +333,7 @@ footer{
  cursor: pointer;
 }
 
+/* advance - 1 */
 
 .adv-1{
  display: flex;
@@ -362,8 +363,8 @@ footer{
 }
 
 .task-1 > p {
- color: rgba(7, 2, 17, 0.60);
- font-family: 'Inter', sans-serif;
+color: rgba(7, 2, 17, 0.60);
+font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 400;
 }
@@ -385,26 +386,107 @@ font-weight: 400;
 }
 
 .curcle-1{
-
  padding-top: 43px;
 }
-
 .curcle > img{
 
  border-radius: 50%;
 padding-top: 20px;
 
 }
-
 .curcle{
 
- width: 400px;
+width: 400px;
 height: 400px;
 border: 15px solid #F00;
 border-radius: 50%;
 text-align: center;
 }
 
+/* advance-2 */
+
+.adv-2{
+
+ width: 1320px;
+ margin: 120px auto 0px;
+}
+
+.image-line{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.r1 {
+ width: 463px;
+  height: 434px;
+}
+
+.r2{
+ position: relative;
+ width: 206px;
+height: 206px;
+left: 216px;
+top: 111px;
+}
+
+.adv-2 > h5{
+
+ font-size: 24px;
+ font-weight: 500;
+ color: #070211;
+ font-family: 'Inter', sans-serif;
+ text-align: center;
+
+}
+
+.r3{
+
+ width: 429px;
+height: 433px;
+
+}
+
+.adv-2 > h4>span  {
+
+ font-size: 32px;
+ font-size: 900;
+ color:#F00;
+ font-family: 'Merriweather', serif;
+}
+
+.adv-2 > h4 {
+
+ color: #070211;
+font-size: 32px;
+font-weight: 900;
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+
+.adv-2 > p{
+
+ color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 500;
+}
+
+.r1{
+
+ position: relative;
+
+ top: 140px;
+  left: 136px;
+ 
+  
+}
+
+.r4{
+ height: 229px;
+}
 
 
 
